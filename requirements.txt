@@ -9,10 +9,7 @@ python-dotenv
 rich==13.4.2
 pandas==2.0.3
 tenacity==8.2.2
-# Install wandb-addons, this will be added to wandb soon
-# !git clone https://github.com/soumik12345/wandb-addons.git
-# may go away when WnB incoporates into product
-wandb-addons @ file:///Users/geoffladwig/Documents/GitHub/wandb-addons
+# wandb-addons @ file:///Users/geoffladwig/Documents/GitHub/wandb-addons
 langchain==0.0.232
 transformers==4.30.2
 datasets==2.13.1
